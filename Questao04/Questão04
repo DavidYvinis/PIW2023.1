@@ -1,3 +1,3 @@
-Contextos são utilizados para compartilhar os dados entre componentes "filhos" para componentes "pais" sem precisar usar os props varias vezes em componentes intermediarios, evitando o problema de Props Drilling.
+Contextos são utilizados para compartilhar os dados entre componentes "filhos" e componentes "pais" sem precisar usar os props varias vezes em componentes intermediarios, evitando o problema de Props Drilling.
 
-Basicamente, ele no lugar de descer degrau por degrau de componentes, ele pode pular do topo ao que degrau que ele precisar chegar. (explicação mais simples que consegui pensar)
+Basicamente, ele no lugar de descer degrau por degrau de componentes, ele pode pular do topo ao degrau que ele deseja chegar. (explicação mais simples que consegui pensar)
